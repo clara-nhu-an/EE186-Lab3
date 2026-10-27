@@ -40,5 +40,7 @@ Thus `01010111₂ = 0x57`. 100 Hz is our chosen rate
 
 ## Writing the Driver
 
+<img width="674" height="521" alt="image" src="https://github.com/user-attachments/assets/160d832a-0c6a-4d98-96ff-654b844aabab" />
+
 
 

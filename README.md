@@ -45,6 +45,10 @@ Thus `01010111₂ = 0x57`. 100 Hz is our chosen rate
 Code source is in lab3 part4.c file
 
 
+## Measuring Gravity
+
+
+
 
 
 

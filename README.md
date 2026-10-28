@@ -47,6 +47,11 @@ Code source is in lab3 part4.c file
 
 ## Measuring Gravity
 
+https://github.com/user-attachments/assets/92135fe9-c43b-4182-a0a3-919eafd4cd77
+
+Code is in lab3 part5a.c file 
+
+
 
 
 
